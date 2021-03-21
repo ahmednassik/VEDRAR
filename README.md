@@ -1,4 +1,4 @@
-VEDRAR - Vehicle Event Data Recorder and Review System
+# VEDRAR - Vehicle Event Data Recorder and Review System
 
 VEDRAR is a combination of hardware technologies like proximity sensor, Arduino board and raspberry pi with software tecnologies like MySql database, Machine Learning etc.
 
@@ -27,9 +27,9 @@ authorities and finally evaluate and categorize drivers into good or bad. And th
 drivers and safer roads.
 
 
-Hardware Requirements
+## Hardware Requirements
 
-1. Proximity sensor
+### 1. Proximity sensor
 
 
 
@@ -54,7 +54,7 @@ Hardware Requirements
  gets objected by any material it gets reflected back toward the sensor this reflected wave is observed
  by the Ultrasonic receiver module
 
-2. Accelerometer
+### 2. Accelerometer
 
     ![Accelometer](https://user-images.githubusercontent.com/66065921/111907946-5bc34100-8a7d-11eb-8520-e9ff80396911.png)
 
@@ -65,7 +65,7 @@ low noise and power consumption. The sensor has a full sensing range of +/-3g. I
 static acceleration of gravity in tilt-senRaspberry Pi Zero Wsing applications, as well as dynamic acceleration resulting
 from motion, shock, or vibration.
 
-3. Raspberry Pi Zero W
+### 3. Raspberry Pi Zero W
 
     ![RaspberryPI](https://user-images.githubusercontent.com/66065921/111908012-9927ce80-8a7d-11eb-9c09-f537a2824c33.png)
     
@@ -78,7 +78,7 @@ an energy-efficient ARM-based processor, the Raspberry Pi Zero can be powered fr
 the go. This is a great solution for headless setups for use on robots or other embedded projects.
 
 
-4. Hall Effect Sensor
+### 4. Hall Effect Sensor
 
       ![Hall Effect Sensor](https://user-images.githubusercontent.com/66065921/111908099-e4da7800-8a7d-11eb-9be6-6c047b250b53.png)
       
@@ -95,7 +95,7 @@ missing paper and open covers. The
 
 
         
-Project Overview
+# Project Overview
   
   VEDRAR is an electronic recording device which is used to store three characteristics of
 driving data namely speed, proximity and tilting angle of steering. Speed as it implies defines the current speed of the vehicle, proximity describes the nearness or closeness in space between
