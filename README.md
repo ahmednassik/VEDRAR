@@ -56,7 +56,7 @@ drivers and safer roads.
 
 ### 2. Accelerometer
 
-    ![Accelometer](https://user-images.githubusercontent.com/66065921/111907946-5bc34100-8a7d-11eb-8520-e9ff80396911.png)
+![Accelometer](https://user-images.githubusercontent.com/66065921/111907946-5bc34100-8a7d-11eb-8520-e9ff80396911.png)
 
 
 GY-61 DXL335 3-Axis Accelerometer Module is a three axis accelerometer sensor module
@@ -67,7 +67,7 @@ from motion, shock, or vibration.
 
 ### 3. Raspberry Pi Zero W
 
-    ![RaspberryPI](https://user-images.githubusercontent.com/66065921/111908012-9927ce80-8a7d-11eb-9c09-f537a2824c33.png)
+![RaspberryPI](https://user-images.githubusercontent.com/66065921/111908012-9927ce80-8a7d-11eb-9c09-f537a2824c33.png)
     
     
 It is a fully working 32-bit computer with a 1 GHz ARMv6 single core microprocessor
@@ -80,7 +80,7 @@ the go. This is a great solution for headless setups for use on robots or other 
 
 ### 4. Hall Effect Sensor
 
-      ![Hall Effect Sensor](https://user-images.githubusercontent.com/66065921/111908099-e4da7800-8a7d-11eb-9be6-6c047b250b53.png)
+![Hall Effect Sensor](https://user-images.githubusercontent.com/66065921/111908099-e4da7800-8a7d-11eb-9be6-6c047b250b53.png)
       
 A Hall effect sensor is a device that is used to measure the magnitude of a magnetic field.
 Its output voltage is directly proportional to the magnetic field strength through it.
