@@ -1,0 +1,9 @@
+Introducing VEDRAR - Vehicle Event Data Recorder and Review system - a revolutionary device that combines hardware technologies such as proximity sensors, Arduino boards, and Raspberry Pi with software technologies like MySQL databases and Machine Learning.
+
+This cutting-edge system aims to improve driving safety by recording essential driving data through various sensors, categorizing drivers into good or bad, and providing feedback on their performance. The real-time data is processed and analyzed using Machine Learning algorithms, evaluating the driver's present driving skills and providing valuable information to road transportation authorities to determine whether a driver passes their driving test.
+
+The need for such a system is crucial as road traffic injuries cause an estimated 1.25 million deaths every year, with 20-50 million people suffering from non-fatal injuries resulting in permanent disability. Adults between the ages of 15 and 44 account for 59% of global traffic deaths, and almost half of the deaths are pedestrians, cyclists, and motorcyclists. In addition, road traffic injuries have significant economic losses to individuals, families, and the nation as a whole. Sadly, only 28 countries have adequate laws that address all five risk factors of road safety, leaving much room for improvement.
+
+VEDRAR is inspired by the Event Data Recorders in aircraft and is mainly divided into two approaches: data acquisition and a review system. The system tracks and records the vehicle activities during a drive, reviews the driver's performance, and provides feedback to the driver and the required authorities. It then evaluates and categorizes drivers into good or bad, leading to safer roads and better drivers.
+
+Overall, VEDRAR is a low-cost, efficient safety device that can help prevent accidents, injuries, and fatalities caused by reckless driving.
