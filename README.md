@@ -18,8 +18,8 @@ countries. This calls for the need of a low cost efficient safety device.
 We are introducing a system similar to Event Data Recorders in aircraft. VEDRAR -
 Vehicle Event Data Recorder and Review system acquires various data’s depending on different
 driving parameters. The system is mainly committed into two approaches:
-1. 1. A data acquisition part
-2. 2. A review system.
+1. A data acquisition part
+2. A review system.
 
 The system first tracks and records the data of vehicle activities during a drive. Then a
 review about the driver is carried out and driving feedback is provided to the driver and required
